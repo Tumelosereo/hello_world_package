@@ -14,7 +14,7 @@ Software to be installed before attempting to run the scripts:
 
 `devtools::install_github("Tumelosereo/hello_world_package")`
 
-# MAc
+
 
 
 
